@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	const int maxname = 100;
+	const int maxname = 50;
 	string names[maxname];
 	int a, number = 0;
 
